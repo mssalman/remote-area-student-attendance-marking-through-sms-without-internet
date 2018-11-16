@@ -7,9 +7,9 @@ $message_con=explode(',',$content,2);
 $class=$message_con[0];
 $roll=$message_con[1];
 $servername = "localhost";
-$username = "notezlik_sms";
-$password = "[14S0PdkK)";
-$dbname = "notezlik_sms";
+$username = "xxxxxxxxxxxxxxx";
+$password = "xxxxxxxxxxxxx";
+$dbname = "xxxxxxxxxxxxx";
 
 
 // Create connection
